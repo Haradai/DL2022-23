@@ -1,0 +1,1 @@
+https://github.com/Haradai/DL2022-23/blob/main/Problems%206%20-%20Pretrained%20CNNs/P6_CNN_PretrainedModels.ipynb
